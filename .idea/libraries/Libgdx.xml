@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Libgdx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/libgdx/gdx-backend-lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libgdx/gdx-openal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libgdx/gdx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libgdx/gdx-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libgdx/extensions/gdx-tiled-preprocessor/gdx-tiled-preprocessor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libgdx/extensions/gdx-image/gdx-image.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libgdx/extensions/gdx-tools/gdx-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libgdx/gdx-backend-lwjgl-natives.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/libgdx/sources" />
+      <root url="file://$PROJECT_DIR$/lib/libgdx/extensions/gdx-tiled-preprocessor/sources" />
+      <root url="file://$PROJECT_DIR$/lib/libgdx/extensions/gdx-image/sources" />
+      <root url="file://$PROJECT_DIR$/lib/libgdx/extensions/gdx-tools/sources" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/libgdx/extensions/gdx-image/sources" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/libgdx/extensions/gdx-tiled-preprocessor/sources" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/libgdx/extensions/gdx-tools/sources" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/libgdx/sources" recursive="false" type="SOURCES" />
+  </library>
+</component>
